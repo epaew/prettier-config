@@ -1,0 +1,24 @@
+{
+  "name": "@epaew/prettier-config",
+  "version": "0.1.0",
+  "description": "My shareable Prettier config",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "homepage": "https://github.com/epaew/prettier-config",
+  "repository": "git@github.com:epaew/prettier-config.git",
+  "license": "MIT",
+  "author": "epaew <epaew.333@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --config index.js .",
+    "prettier:fix": "prettier --config index.js --write ."
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  },
+  "peerDependencies": {
+    "prettier": "^2.0.0"
+  }
+}
