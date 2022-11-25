@@ -16,7 +16,7 @@
     "prettier:fix": "prettier --config index.js --write ."
   },
   "devDependencies": {
-    "prettier": "^2.5.1"
+    "prettier": "^2.8.0"
   },
   "peerDependencies": {
     "prettier": "^2.0.0"

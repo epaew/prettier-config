@@ -3,7 +3,7 @@
 ## How to use
 
 ```sh
-yarn add -D git://github.com/epaew/prettier-config.git
+npm i -D git://github.com/epaew/prettier-config.git
 echo "@epaew/prettier-config" > .prettierrc
 ```
 
